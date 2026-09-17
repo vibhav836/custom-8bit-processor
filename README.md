@@ -158,13 +158,13 @@ The repository also contains screenshots of the individual subsystems:
 
 See [hardware/](hardware/) for the images and [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the written architecture description.
 
-## Uploading this project to GitHub
-
-The folder is already structured as a GitHub repository. You can either drag the files into a new GitHub repository in the browser, or use Git from the command line. A step-by-step guide is included in [GITHUB_UPLOAD.md](GITHUB_UPLOAD.md).
-
 ## Project status
 
 This repository documents the current working version of the processor as implemented in Logisim. The documentation is based on the hardware and instruction set used in the project.
+
+## Logisim version 
+
+This processor works on the logisim version v2.13.8 and it is included in the files.
 
 ## Next things that could be added
 
